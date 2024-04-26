@@ -4,6 +4,8 @@
 ## Description
 Mars River is an advanced Python script designed for in-depth analysis of celestial terrains, particularly tailored for generating hydrographic maps. Whether you're a planetary scientist, a space enthusiast, or a curious explorer, Mars River provides the tools you need to unravel the mysteries of extraterrestrial landscapes.
 
+![rivers png hyper detailed](https://github.com/Rishit-katiyar/mars-river/assets/167756997/fa5b06ff-2a04-497d-8184-8c66236c2c2f)
+
 ## How to Use: A Detailed Guide for Celestial Adventurers
 Embark on your celestial journey with the Mars River script by following these meticulous steps:
 
@@ -45,8 +47,6 @@ Encountered a cosmic anomaly? Fear not! Here are some troubleshooting commands t
 - **Issue**: Script execution error.
   - **Solution**: Review the error message carefully to identify the source of the issue. Check if all required files and dependencies are in place. If necessary, consult the documentation or seek assistance from the open-source community.
 
-
-
 ### Usage: Navigating the Celestial Seas
 Prepare to embark on your celestial odyssey and uncover the hidden secrets of extraterrestrial landscapes with the Mars River script:
 
@@ -64,6 +64,8 @@ Initiate the celestial reconnaissance mission by invoking the Mars River script.
 
 #### 4. Review Results
 As the script completes its celestial survey, navigate to the project directory to behold the fruits of your labor. Behold, the hydrographic map, a testament to your intrepid exploration, awaits discovery.
+
+![river up and down](https://github.com/Rishit-katiyar/mars-river/assets/167756997/8dbb8fd3-1aa1-4f61-af82-29da8718e7c1)
 
 ## License: Charting New Frontiers with GPL-3.0
 Embrace the spirit of open exploration and collaboration with the GPL-3.0 License. Chart your course across the digital cosmos, secure in the knowledge that your celestial adventures are bound only by the principles of freedom and openness.
