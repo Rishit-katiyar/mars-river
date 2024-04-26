@@ -34,8 +34,6 @@ Equip your toolkit with the essential components needed to navigate the cosmic w
    ```bash
    pip install -r requirements.txt
    ```
-![river up and down](https://github.com/Rishit-katiyar/mars-river/assets/167756997/8dbb8fd3-1aa1-4f61-af82-29da8718e7c1)
-
 ### Troubleshooting: Navigating Cosmic Anomalies
 Encountered a cosmic anomaly? Fear not! Here are some troubleshooting commands to help you navigate through the celestial seas:
 
@@ -65,6 +63,8 @@ Initiate the celestial reconnaissance mission by invoking the Mars River script.
 
 #### 4. Review Results
 As the script completes its celestial survey, navigate to the project directory to behold the fruits of your labor. Behold, the hydrographic map, a testament to your intrepid exploration, awaits discovery.
+
+![river up and down](https://github.com/Rishit-katiyar/mars-river/assets/167756997/8dbb8fd3-1aa1-4f61-af82-29da8718e7c1)
 
 ## License: Charting New Frontiers with GPL-3.0
 Embrace the spirit of open exploration and collaboration with the GPL-3.0 License. Chart your course across the digital cosmos, secure in the knowledge that your celestial adventures are bound only by the principles of freedom and openness.
