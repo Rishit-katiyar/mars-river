@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 # Import essential modules for celestial terrain analysis
 from heapq import heappush, heappop, heapify
 import sys
